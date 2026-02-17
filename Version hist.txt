@@ -1,0 +1,40 @@
+No version stated: 
+	- Original version, basic
+
+V1.0.1: 
+	- Fixed marriage last name change error
+	- Improved clarity on marriage last name change prompts
+
+V1.0.2: 
+	- Improved prompt clarity and formatting, built in repetitive use option
+
+V1.0.3: 
+	- Improved exception information in case of error
+
+V1.0.4: 
+	- Undo option for previous input
+
+V1.0.5: 
+	- Optional family data incorporation
+	- Improved prompts for non-merge usage & clarity
+	- Calculation impact caps on location & family data including twin correction
+
+V1.0.6: 
+	- Enhanced calculation explanation
+	- Calculation adjustment to account for the fact that location typos tend to happen together
+	- 'undo' validity after initial completion
+	- Caps on family members' name impacts
+	- Improved exception prompt data
+	- Clean printing that doesn't cut off words on the edge
+
+V1.0.7:
+	- Death dates
+	- Alternate answer acceptance
+	- Print out usable part of reason for merge/file attachment
+	- Debugged error message
+
+V1.0.8:
+	- Name rate indexes for regional areas (Denmark 1801)
+	- Custom name rate indexes (via namedata expander)
+	- Removed empty string bug
+	- Easier copy/paste, even if it hurts eyes a little in terminal formatting
